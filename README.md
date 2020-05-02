@@ -9,6 +9,6 @@ After that you need to have installed chrome and in your PATH put the chrome web
 https://sites.google.com/a/chromium.org/chromedriver/
 
 Configuration:
-- twoFactorKey = '' # If you have a two factor authentication system you need to put here the generated key used to activate the 2fa. Example: https://i.imgur.com/XnheZBY.png
-- email = '' # Your email or username for login
-- passowrd = '' # Your password
+- twoFactorKey = 'YOURKEY' # If you have a two factor authentication system you need to put here the generated key used to activate the 2fa. Example: https://i.imgur.com/XnheZBY.png
+- email = 'YOUREMAIL' # Your email or username for login
+- passowrd = 'YOURPASSWORD' # Your password
